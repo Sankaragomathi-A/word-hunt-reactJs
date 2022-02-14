@@ -96,7 +96,7 @@ const isLocalhost = Boolean(
             });
           });
         } else {
-          // Service worker found. Proceed as normal.
+          
           registerValidSW(swUrl, config);
         }
       })
